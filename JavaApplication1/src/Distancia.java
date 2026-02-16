@@ -1,8 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
 /**
  * Clase Distancia — calcula la distancia euclidiana entre dos puntos.
  * Recibe objetos de tipo Punto como argumentos del constructor.
